@@ -4,3 +4,4 @@
 - tomato
 - grapes
 - watermelon
+- pineapple
