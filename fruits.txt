@@ -1,4 +1,4 @@
-//@reuse
+//@reused
 
 - apple
 - tomato
