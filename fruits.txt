@@ -1,4 +1,4 @@
-//@reused
+@@author reused
 
 - apple
 - tomato
