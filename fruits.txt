@@ -1,4 +1,4 @@
-@@author reused
+/* @@author fake */
 
 - apple
 - tomato
